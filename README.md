@@ -1,5 +1,5 @@
 # HotelReservationChatbot
-Chatbot created with open ai using langchain framework. 
+Chatbot created with open ai using langchain framework. This is the bot created to assist in booking rooms for a fictitious hotel named "Ronitha Inns". Once the following installation instructions are carried out and you run main.py, you can interact with the chatbot until you say "bye" or "goodbye" or "end chat". The information collected for booking room will be stored in reservation.json
 
 # Installation Instructions
 
