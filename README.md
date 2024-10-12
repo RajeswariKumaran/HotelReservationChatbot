@@ -1,5 +1,5 @@
 # HotelReservationChatbot
-Chatbot created with open ai using langchain framework
+Chatbot created with open ai using langchain framework. 
 
 # Installation Instructions
 
@@ -16,21 +16,33 @@ Pipenv Installation and Configuration
 2. In your terminal run pip install pipenv or depending on your environment, pip3 install pipenv
 3. Create a file in your hotelreservation project directory called Pipfile
 4. Copy paste the following code into that new Pipfile (or drag and drop the file that is present in the code repository into hotelreservation project directory
+5. 
 [[source]]
+
 url = "https://pypi.org/simple"
+
 verify_ssl = true
+
 name = "pypi"
+
  
 [packages]
+
 langchain = "==0.0.352"
+
 openai = "==0.27.8"
+
 python-dotenv = "==1.0.0"
+
 pyboxen = "*"
+
  
 [dev-packages]
  
 [requires]
+
 python_version = "3.11"
+
  
 5. Inside your hotelreservation project directory, run the following command to install your dependencies from the Pipfile:
 pipenv install
