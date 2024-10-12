@@ -1,0 +1,35 @@
+[
+    {
+        "guest_name": "Raji",
+        "email": "raji@sdf.com",
+        "phone_number": "234 456 5678",
+        "number_of_guests": 4,
+        "checkin": "2024-10-16",
+        "checkout": "2024-10-20",
+        "room_type": "Suite",
+        "breakfast_included": "No",
+        "special_request": ""
+    },
+    {
+        "guest_name": "Ramu",
+        "email": "ramu@asdf.com",
+        "phone_number": "768 567 7654",
+        "number_of_guests": 4,
+        "checkin": "2024-11-01",
+        "checkout": "2024-11-04",
+        "room_type": "Executive",
+        "breakfast_included": "Yes",
+        "special_request": "None"
+    },
+    {
+        "guest_name": "Your Name",
+        "email": "raji@as.com",
+        "phone_number": "234 345 3456",
+        "number_of_guests": 3,
+        "checkin": "2024-10-20",
+        "checkout": "2024-10-25",
+        "room_type": "Executive",
+        "breakfast_included": "Yes",
+        "special_request": "I would like to stay near the elevator"
+    }
+]
